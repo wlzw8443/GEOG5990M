@@ -1,0 +1,484 @@
+﻿LSOA,LSOA Name,Ward (2018 version),IMD Rank in Leeds,IMD Decile
+E01011264,"Hawthorns, Coppice Wood Cres",Otley & Yeadon,236,5
+E01011265,"Guiseley Railway Station, Town Centre, Cavindishes",Guiseley & Rawdon,324,7
+E01011266,"Highroyds, Tranmere Estate",Guiseley & Rawdon,450,10
+E01011267,"West Queensway, Greenbottom",Guiseley & Rawdon,195,3
+E01011268,"Coppice Woods, Shaws, Nunroyd Park",Otley & Yeadon,154,2
+E01011269,"Banksfield Ave, Banksfield Cres, Otley Lane, Yeadon Tarn",Otley & Yeadon,233,5
+E01011270,"Hawksworth Village, Tranmere Estate",Guiseley & Rawdon,475,10
+E01011271,"Fieldhead, Hawkstones",Guiseley & Rawdon,444,9
+E01011272,"Westfields, Silverdales",Guiseley & Rawdon,447,9
+E01011273,"Kirk Lane, Nunroyd Park",Guiseley & Rawdon,305,6
+E01011274,"Henshaws, Parkland View, Town Street",Otley & Yeadon,144,2
+E01011275,"Barfields, Whack House Lane, St John's",Guiseley & Rawdon,238,5
+E01011276,"Ruffords, Benton Park",Otley & Yeadon,312,7
+E01011277,"Woodleas, Greenlea Road",Guiseley & Rawdon,357,7
+E01011278,"New Road Side, Greenacres, Micklefield Park",Guiseley & Rawdon,410,9
+E01011279,"Moor Lane, Moorlands",Guiseley & Rawdon,401,8
+E01011280,"Ings Lane, Netherfield Drive, Moorland Cres",Guiseley & Rawdon,460,10
+E01011281,"Raynville Cres, Houghleys, Victoria Parks",Armley,145,2
+E01011282,"Astons, Snowdens",Bramley & Stanningley,106,1
+E01011283,Wyther Parks,Armley,39,1
+E01011284,"Aviaries, Arleys, Salisburys",Armley,97,1
+E01011286,"Hill Top, Town End",Armley,201,3
+E01011287,Spring Valleys,Armley,214,4
+E01011292,"Carr Crofts, Cedars, Wesley Road",Armley,27,1
+E01011293,"Mistress Lane, Nancroft Lane, Brooklyns, Models",Armley,69,1
+E01011294,"Armley Grove Place, Hall Lane, Abbot View",Armley,10,1
+E01011295,"Outgang Lane, Raynvilles, Musgraves",Armley,126,2
+E01011296,Barwick in Elmet,Harewood,419,9
+E01011297,"Aberford, Lotherton",Harewood,392,8
+E01011298,Micklefield,Kippax & Methley,162,2
+E01011299,Ledston / Ledsham,Kippax & Methley,325,7
+E01011300,Kippax Common,Kippax & Methley,247,5
+E01011301,Moorgate Road / Ashgroves / Moorgate (Kippax),Kippax & Methley,428,9
+E01011302,Sandgate Drive / Holland Rd / East View (Kippax),Kippax & Methley,411,9
+E01011303,Pondfields Drive / Gibson Lane / Longdyke Lane,Kippax & Methley,268,5
+E01011304,Mount Pleasant (Kippax),Kippax & Methley,197,3
+E01011305,The Drive / Cromwell Rise (Kippax),Kippax & Methley,308,6
+E01011306,Green Lane / Kempton Road (Kippax),Kippax & Methley,415,9
+E01011307,Allerton Bywater,Kippax & Methley,193,3
+E01011308,Brighshaw Drive / Woodsides (Great Preston),Kippax & Methley,307,6
+E01011309,"St Johns Road, Strawberry Hill, Aberford Rd",Harewood,316,7
+E01011310,"Thorner, Scarcroft",Harewood,389,8
+E01011311,"Scarcroft, Thorner",Harewood,412,9
+E01011312,"Trentham St, Oakleys, Garnets",Hunslet & Riverside,13,1
+E01011313,"Firths, Cross Flatts",Beeston & Holbeck,161,2
+E01011314,"Parkfields, Marsdens",Beeston & Holbeck,175,3
+E01011315,"Town Street, St Antony’s Drive, Moorside Road",Beeston & Holbeck,152,2
+E01011316,"Colwyn Road, Woodview Mount",Hunslet & Riverside,56,1
+E01011317,"Millshaw, Elland Rd, Cottingley Approach",Beeston & Holbeck,45,1
+E01011318,"Cottingley Drive, Dulvertons",Beeston & Holbeck,38,1
+E01011319,"Barkly Road, Allenbys, Athas",Beeston & Holbeck,189,3
+E01011320,"Waincliffe Drive, Old Lane, Parksides",Beeston & Holbeck,208,4
+E01011321,"Waincliffe Place, Cardinals, Thircliffe Gardens",Beeston & Holbeck,123,2
+E01011322,"Beeston Parkside, Southleighs, Parkwoods",Beeston & Holbeck,177,3
+E01011323,"Hill Rise Gr, Bell Lane, Wellington Gardens",Bramley & Stanningley,178,3
+E01011324,Broadleas,Bramley & Stanningley,75,1
+E01011325,Ganners,Bramley & Stanningley,182,3
+E01011326,St Catherines,Bramley & Stanningley,57,1
+E01011327,"Calverley Lane, Hortons, Coal Hills",Bramley & Stanningley,156,2
+E01011328,Wyther Lane / Victoria Parks / Houghleys,Bramley & Stanningley,165,3
+E01011329,"Calverleys, Cambridge Gardens, Whitecote Rise",Bramley & Stanningley,337,7
+E01011330,"Rodley Lane, Langleys",Bramley & Stanningley,167,3
+E01011331,"Warrels, Upper Town St, Bellmount View",Bramley & Stanningley,153,2
+E01011332,"Waterloo Lane, Landseers",Bramley & Stanningley,60,1
+E01011333,"Summerfields, Broad Lane, Fairfield Road",Bramley & Stanningley,174,3
+E01011334,"Stanningley Road, Stations, Rosemont Road",Bramley & Stanningley,116,2
+E01011335,Stanningley,Bramley & Stanningley,216,4
+E01011336,"Waterloo Way, Rossefields, Ashbys",Bramley & Stanningley,44,1
+E01011337,Fairfields,Bramley & Stanningley,28,1
+E01011338,"Haselwoods, Rigtons",Burmantofts & Richmond Hill,46,1
+E01011339,"Oaktrees, Beech Mount, Oakwood Lane",Gipton & Harehills,108,1
+E01011340,"Coldcote Ave, Kitcheners, Bullers, St Albans",Burmantofts & Richmond Hill,70,1
+E01011341,"Veritys, Dunhills,",Temple Newsam,149,2
+E01011342,"Brander Road, South Farms, Coldcotes",Gipton & Harehills,59,1
+E01011343,The Oval,Killingbeck & Seacroft,160,2
+E01011344,"Bellbrooke Ave, Kimberley Road, Comptons",Burmantofts & Richmond Hill,17,1
+E01011345,Crossgates,Killingbeck & Seacroft,105,1
+E01011346,"Wykebeck Valley Road, Branders, Gipton Approach",Gipton & Harehills,50,1
+E01011347,"Cliftons, Nowells",Burmantofts & Richmond Hill,9,1
+E01011348,Torres,Burmantofts & Richmond Hill,26,1
+E01011349,Glenthorpes / Gargrave Place / Brignall Garth / Middleton Ave,Burmantofts & Richmond Hill,76,1
+E01011350,"Stainbeck Rd, Wensley Drive, Henconners",Chapel Allerton,377,8
+E01011351,"Woodland Lane, Pasture Ave, Dominion Ave",Chapel Allerton,314,7
+E01011352,Chapel Allerton village,Chapel Allerton,256,5
+E01011353,"Montreal Ave, Gledhow Parks, Roxholmes",Chapel Allerton,435,9
+E01011354,Beckhills,Chapel Allerton,61,1
+E01011355,"Miles Hills, Potternewton",Chapel Allerton,122,2
+E01011356,"King George Ave, St Martins', Newton Road",Chapel Allerton,230,5
+E01011357,"Scott Hall Road, Sholebrokes",Chapel Allerton,63,1
+E01011358,"Scott Hall Grove, Newton Lodge Drive, Riveria Gardens",Chapel Allerton,111,1
+E01011359,"Avenue Hill, Roundhay Ave, Sycamore Avenue ",Chapel Allerton,142,2
+E01011360,"Reginalds, Mexboroughs",Chapel Allerton,91,1
+E01011361,"Granges, Hamiltons, Francis Street",Chapel Allerton,65,1
+E01011362,"Highfield Cres, Old Lane, Roseneaths, Gilpins",Farnley & Wortley,79,1
+E01011363,"Holdforths, Clyde Approach,",Armley,4,1
+E01011364,"Malvern Road, St Lukes, Lady Pit Lane",Hunslet & Riverside,72,1
+E01011366,"Brown Lane, Rydalls, Malvern Street",Beeston & Holbeck,34,1
+E01011368,"Crosby St, Recreations, Bartons",Beeston & Holbeck,3,1
+E01011369,"Elland Rd, Wesley St, Cross Heath Gr",Beeston & Holbeck,135,2
+E01011370,"Sunnyviews, Nosters",Beeston & Holbeck,82,1
+E01011371,"Bismarcks, Dewsbury Road, Burton St",Hunslet & Riverside,15,1
+E01011372,"Stratford Street, Beverleys",Hunslet & Riverside,1,1
+E01011373,"Barton Road, Coupland St, Sunbeam Place",Hunslet & Riverside,52,1
+E01011374,"Longroyds, Burton Ave, Burton Row",Hunslet & Riverside,80,1
+E01011375,"Wickham St. Seftons, Harlechs",Hunslet & Riverside,5,1
+E01011376,"Cookridge, Moseley Woods",Adel & Wharfedale,477,10
+E01011377,"Cookridge, Kirkwoods, Tinshill Dr, Mavis Ave",Adel & Wharfedale,440,9
+E01011378,"Holt Park, Holtdales",Adel & Wharfedale,110,1
+E01011379,"Tinshill, Holt Farms, Farrar Lane",Adel & Wharfedale,155,2
+E01011380,"Adel, Oaklands, Long Causeway, Church Lane",Adel & Wharfedale,457,10
+E01011381,"Holt Park, Kingsleys",Adel & Wharfedale,424,9
+E01011382,"Moseley Woods, Dale Parks",Adel & Wharfedale,452,10
+E01011383,"Raynels, The Drive",Adel & Wharfedale,329,7
+E01011384,"Kirkwoods, Tinshill Ave, Hillcrest Rise",Weetwood,245,5
+E01011385,"Eastmoor, Dunstarns (Adel)",Adel & Wharfedale,434,9
+E01011386,"Farrar Lane, Otley Road, Adel Lane",Adel & Wharfedale,474,10
+E01011388,"Cookridge Hospital, Haven Chase, Eaton Hill",Weetwood,264,5
+E01011390,Astley Lane,Garforth & Swillington,231,5
+E01011391,Springwell Ave / Church Lane (Swillington),Garforth & Swillington,255,5
+E01011392,Great Preston,Garforth & Swillington,265,5
+E01011393,Church Lane / The Hollings (Methley),Kippax & Methley,350,7
+E01011394,Mickletown,Kippax & Methley,306,6
+E01011395,Methley Jct,Kippax & Methley,221,4
+E01011396,Main St / Barleyhill Rd / Beech Groves,Garforth & Swillington,287,6
+E01011397,Meadow Road / Firthfields (East Garforth),Garforth & Swillington,422,9
+E01011398,Ludlow Ave / The Chase / Braemar Drive (East Garforth),Garforth & Swillington,448,9
+E01011399,Alandales / Barleyhill Road ,Garforth & Swillington,349,7
+E01011400,Oak Drive / Station Fields (Garforth),Garforth & Swillington,258,5
+E01011401,Hazelwood Ave / Kennet Lane / Fairburn Drive,Garforth & Swillington,458,10
+E01011402,Selby Road / Westbournes (West Garforth),Garforth & Swillington,284,6
+E01011403,Church Lane / Springmead Drive,Garforth & Swillington,362,7
+E01011404,Severn Drive / Ribblesdale Ave (Garforth),Garforth & Swillington,441,9
+E01011405,Wharfedale Cres / Cotswold Dr / Longmeadow Ct (Garforth),Garforth & Swillington,403,8
+E01011406,Manston Way / Manston Approach / Sandbed Lane,Cross Gates & Whinmoor,386,8
+E01011407,Dennils / Kelmscotts,Cross Gates & Whinmoor,249,5
+E01011408,Manston Grove / Kennerleighs,Cross Gates & Whinmoor,273,6
+E01011409,Austhorpe Rd / Pendas Walk,Cross Gates & Whinmoor,207,4
+E01011410,Pendas' Fields,Cross Gates & Whinmoor,347,7
+E01011411,Austhorpes / Colton Rd East / Stile Hill Way,Temple Newsam,459,10
+E01011412,Kingswears / Lulworths,Cross Gates & Whinmoor,361,7
+E01011413,Primrose Cres / Woodland Rd / Graveleythorpe Rd,Temple Newsam,326,7
+E01011414,Hollyshaw Lane / Baronsway / Colton Road,Temple Newsam,369,8
+E01011415,Primrose Lane / Grove Road,Temple Newsam,244,5
+E01011416,"Selby Rd, Temple Walk, Pinfold Rd, Kingsway",Temple Newsam,302,6
+E01011417,Field End Garth / Pinfold Lane,Temple Newsam,252,5
+E01011418,Meynell Rd / School Lane / (Whitkirk Lane End),Temple Newsam,341,7
+E01011419,Colton Lane / Darnley Lane / Park Rd,Temple Newsam,417,9
+E01011420,Templegates,Temple Newsam,278,6
+E01011421,Hollin Parks,Killingbeck & Seacroft,132,2
+E01011422,"Markham Ave, Brookfield Ave, Roundhay Mt",Gipton & Harehills,99,1
+E01011423,"Lawrences, Ambertons, Fearnvilles",Gipton & Harehills,114,1
+E01011424,"Hetton Road, Amberton Road, St Wilfrids Cres",Gipton & Harehills,136,2
+E01011425,Grange Parks,Killingbeck & Seacroft,226,5
+E01011426,"Gathorne Terr, Hares Ave, Pasture Road, Baldovan Mt",Gipton & Harehills,58,1
+E01011427,"Easterly Grove, St Wilfrids",Gipton & Harehills,12,1
+E01011428,"Harehills Road, Conway Drive, Luxors",Gipton & Harehills,102,1
+E01011429,"Spencer Place, Bankside St, Shepherds Lane",Gipton & Harehills,43,1
+E01011430,"Darfield Road, Sandhursts, Dorsets, St Wilfrids Drive",Gipton & Harehills,62,1
+E01011431,"Foundrys, Thorn Drive, North Farm Road, Amberton Approach",Gipton & Harehills,40,1
+E01011432,"Chatsworths Road, Berkleys, Strathmore Terr",Gipton & Harehills,29,1
+E01011433,"Comptons, Ashtons, Cowpers",Gipton & Harehills,18,1
+E01011434,"Ashtons, Conways",Gipton & Harehills,32,1
+E01011435,"St Annes Road, Headingley Mt, Cardigan Road",Headingley & Hyde Park,248,5
+E01011440,"Bainbridge Rd, St Michaels Rd, Chapel Steet, Alma Road",Headingley & Hyde Park,242,5
+E01011441,"Newport Road, Broomfield Cres",Headingley & Hyde Park,294,6
+E01011442,"Victoria Road, Manors, Richmond Mount",Headingley & Hyde Park,303,6
+E01011443,"Midland Road, Hyde Park Terr, Cliff Lane",Headingley & Hyde Park,259,5
+E01011444,"Royal Parks, Ash Grove",Headingley & Hyde Park,204,3
+E01011445,"Pearson Grove, Chestnut Road, Welton Mount",Headingley & Hyde Park,318,7
+E01011446,"Norwoods, Cardigan Lane, Mayvilles",Headingley & Hyde Park,270,5
+E01011447,"Hessle Ave, Royal Park Road",Headingley & Hyde Park,206,4
+E01011448,"Hyde Park Road, Royal Park Road, Brudenell St",Headingley & Hyde Park,148,2
+E01011449,"Queens Road, Harolds",Headingley & Hyde Park,169,3
+E01011450,"Boothroyd Drive, Farmhills, Sugarwells",Chapel Allerton,125,2
+E01011451,"Shire Oak Road, Wood Lane (Headingley)",Headingley & Hyde Park,299,6
+E01011452,"Victoria Mount, Newlays, Airedale Drive",Horsforth,454,10
+E01011453,"Newlay Woods, Outwood Lane, Cragg Wood Road",Horsforth,443,9
+E01011454,"Victoria Cres, Victoria Gardens, Newlaithes Gardens",Horsforth,462,10
+E01011455,"Southway, West End Drive, Trinity All Saints",Horsforth,466,10
+E01011456,"Scotland Lane, Brownberries",Horsforth,446,9
+E01011457,"Henley Close, Henley Cres (Rawdon)",Horsforth,437,9
+E01011458,"Layton Ave, Emmott Drive,",Horsforth,471,10
+E01011459,"Station Rd, Church Ave, Church Lane, ",Horsforth,381,8
+E01011460,"Low Lane, King George Ave, North Broadgate Lane",Horsforth,328,7
+E01011461,"Hall Lane, West End Rise, West End Lane",Horsforth,479,10
+E01011462,"Alexandra Road, Stanhope Drive, King Edward Ave",Horsforth,209,4
+E01011463,Broadgates,Horsforth,212,4
+E01011464,"Brearys, Woodside",Horsforth,420,9
+E01011465,"Fink Hill, Broadway, Regents",Horsforth,229,5
+E01011466,"Lanshaws, Nesfields",Middleton Park,104,1
+E01011467,Hunslet Green,Hunslet & Riverside,84,1
+E01011468,Thwaite Gate,Hunslet & Riverside,48,1
+E01011469,"Orions, Broom Terr, Middleton Ring Rd",Middleton Park,200,3
+E01011470,"Parnaby Rd, Leasowes, Clayton Rd",Hunslet & Riverside,134,2
+E01011471,"Arthingtons, Old Run Road, Blakeneys",Middleton Park,24,1
+E01011472,"East Granges, West Granges, Sandon Mt",Middleton Park,35,1
+E01011473,"Winroses, Whitebeams",Middleton Park,16,1
+E01011474,"Low Granges, Windmill Road",Middleton Park,22,1
+E01011475,"Newhalls, Aberfields, Winrose Approach",Middleton Park,87,1
+E01011476,"Brooms, Nesfields",Middleton Park,96,1
+E01011477,"Eden Cres, Beecroft St, Sandford Rd",Kirkstall,205,4
+E01011478,"Stanmores, Talbot View",Kirkstall,198,3
+E01011479,"Stanmore Hill, Beechwoods",Kirkstall,232,5
+E01011480,"St Ann's Ave, Burley Hill Drive, Edens",Kirkstall,269,5
+E01011481,"Ashville Road, Park View Road, Burley Road, Autumns",Little London & Woodhouse,124,2
+E01011482,"Burley Wood Cres, Bankfield Road, Haddon Road",Kirkstall,213,4
+E01011483,"Cardigan Lane, Kirkstall Road, St Matthias Street",Little London & Woodhouse,94,1
+E01011484,"Lee Farm Road, Spens",Kirkstall,68,1
+E01011485,"Queenswood Drive, Lea Farms, Ghyll Road",Kirkstall,117,2
+E01011488,"Abbey Road, Normans",Kirkstall,172,3
+E01011489,"Queenswood Road, Foxcrofts",Kirkstall,202,3
+E01011490,"Sharp House Rd, Throstle Rd, Lingwell Rd",Middleton Park,298,6
+E01011491,"Helston Road, Bodmin Cres, Sissons Terr",Middleton Park,49,1
+E01011492,"Throstle Lane, Intake Sq, Acres, Middleton Park Grove",Middleton Park,37,1
+E01011493,"Bodmin Road, Bodmin Gdns, Sissons Cres",Middleton Park,25,1
+E01011494,"Middleton Park Mount, Thorpe Road, Acres",Middleton Park,100,1
+E01011496,"Copley Lane, Hopefield Drive",Ardsley & Robin Hood,391,8
+E01011497,"Middleton Park Grove, Acre Road, Throstle Lane",Middleton Park,67,1
+E01011499,"Winthorpes, Lingwell Gate Lane, Gascoigne Road",Ardsley & Robin Hood,227,5
+E01011500,"Leeds Road, Greenmoors, Green Lane",Ardsley & Robin Hood,286,6
+E01011502,"Cranmores, Raylands",Middleton Park,171,3
+E01011504,"Lincombes, Brackenwood Drive",Roundhay,81,1
+E01011505,"King Alfreds, Carr Manor Cres, Stonegate Rd",Moortown,272,6
+E01011506,"Scott Hall Rd, Carr Manors",Moortown,353,7
+E01011507,"Stainbeck Rd, Wensley Drive, Carrholms",Moortown,388,8
+E01011508,"West Park Dr, Street Lane, Talbot Rd",Roundhay,433,9
+E01011509,"Shadwell Walk, High Moor Cres, Chelwood Dr",Moortown,368,8
+E01011510,"Stonegate Road, Queenshills, Fieldhouse Drive & Close",Moortown,89,1
+E01011511,"Bentcliffes, Moor Allertons ",Moortown,342,7
+E01011512,"Stonegate Close, Allerton Ave, Nunroyds",Moortown,364,7
+E01011513,"Woodleas, Parklands (Meanwood)",Moortown,432,9
+E01011514,"Moorland Dr, King Lane, Wyncliffe Gdns",Moortown,372,8
+E01011515,"Broomhill Dr, King Lane, King's Mount",Moortown,421,9
+E01011516,"Allerton Granges, Stainburns",Moortown,453,10
+E01011517,Lidgett Park,Roundhay,275,6
+E01011518,"Old Rd, Granny Ave (Churwell)",Morley North,282,6
+E01011519,"Moorland Ave, Spring Ave Spring View",Morley North,181,3
+E01011520,"Scott Greens, Church St, Reedsdale Gardens",Morley North,387,8
+E01011521,"Whitehall Rd, Dean Parks, Spring Gardens",Morley North,289,6
+E01011522,"Gildersome Town St, Highfield Close",Morley North,408,8
+E01011523,"Finkle Lane, Parkway, Street Lane",Morley North,185,3
+E01011524,Churwell,Morley North,297,6
+E01011525,"Nepshaw Lane, Brighton Ave, Springfields",Morley North,280,6
+E01011526,"Westwood Side,Clark Springs",Morley North,468,10
+E01011527,"Hodgson Lane, Drake Lane, Moorside",Morley North,379,8
+E01011528,"Hargreaves Close, Sandmeads, Ibbetson Rd",Morley North,426,9
+E01011529,"Penfield Rd, Walker Drive, Fairfax Ave",Morley North,179,3
+E01011530,"Scatcherd Lane, Bruntcliffe Drive",Morley South,319,7
+E01011531,"Croft Houses, King George Ave",Morley North,327,7
+E01011532,"Farm Hill Road, Asquith Ave, Ingle Ave",Morley North,184,3
+E01011533,"Winyard Drive, Bright St, Chapel Hill, Church St",Morley North,150,2
+E01011534,"Dartmouth Park, Pawson St, Queen's Rd",Morley South,261,5
+E01011535,"Baghill Rd, Westerton Rd",Ardsley & Robin Hood,431,9
+E01011536,"Woolin Ave,Haigh Moors",Ardsley & Robin Hood,339,7
+E01011537,"Bradford Rd, Church Lane, Forsythia Ave",Ardsley & Robin Hood,257,5
+E01011538,"Westerton Rd, Bradford Rd, Ardsley Common",Ardsley & Robin Hood,147,2
+E01011540,"Albert Drive, Newlands Drive, Wide Lane",Morley South,107,1
+E01011541,"Queen St, Commercial St, Chartists Way",Morley South,170,3
+E01011545,"Barker Street, Elvaston Road, High Street",Morley South,218,4
+E01011546,Howley Park,Morley South,199,3
+E01011547,"Low Town End, Britannia Road",Morley South,143,2
+E01011548,Woodkirk,Morley South,290,6
+E01011549,Adjacent to West Lea Park in West Ardsley,Ardsley & Robin Hood,472,10
+E01011550,"Tingley Cres, Rein Road, Scarborough Lane",Morley South,323,7
+E01011551,"Buckthrorne Lane, Cave Lane",Ardsley & Robin Hood,277,6
+E01011552,"Smithy Lane, Fairleighs",Ardsley & Robin Hood,137,2
+E01011553,"Thorpe Lane, Constable Rd, Hollerton Lane",Ardsley & Robin Hood,384,8
+E01011554,"Buckstones, Windermere Drive, Blackthill Lane",Alwoodley,438,9
+E01011555,"Birkdale Drive, Turnberrys, Wentworth Ave ",Alwoodley,400,8
+E01011556,Sandringhams,Alwoodley,333,7
+E01011557,"Sandhills, Belvederes",Alwoodley,427,9
+E01011558,"Lingfields, Firtrees",Alwoodley,121,2
+E01011559,"Fir Tree Approach, Lingfield Approach, Cranmer Bank, Saxon Road",Alwoodley,98,1
+E01011560,"Tynwalds, Deanswoods",Alwoodley,112,1
+E01011561,"Harewood Village, Wike Ridges",Harewood,363,7
+E01011562,"High Ashes, Wigton Lane",Alwoodley,467,10
+E01011563,"Alwoodley Lane, The Fairway, Sandmoor Ave",Alwoodley,470,10
+E01011564,"Alwoodley - The Grove, The View, The Drive",Alwoodley,478,10
+E01011565,"Sandmoor Lane, Primary Parks",Alwoodley,429,9
+E01011566,"Plantations, Longwood Close, Oakdenes",Alwoodley,413,9
+E01011567,"Sunningdales, Buckstone, Cres",Alwoodley,439,9
+E01011568,"Shadwell Lane, Plane Tree Ave, Barfield Cres",Alwoodley,442,9
+E01011569,Otley Town Centre,Otley & Yeadon,322,7
+E01011570,Pool,Adel & Wharfedale,449,9
+E01011571,"Birdcage Walk, West Chevin Road",Otley & Yeadon,351,7
+E01011572,"Cambridge Drive, Cambridge Way (Otley)",Otley & Yeadon,423,9
+E01011573,"West Buck Lane, Sunnydales",Otley & Yeadon,380,8
+E01011574,"Saville Court, Whiteley Crofts, Gay Lane, Crow Lane",Otley & Yeadon,304,6
+E01011576,"Bramhope, Arthington",Adel & Wharfedale,456,10
+E01011578,"Glenmere Mount, Sunnybanks, Grange Ave",Otley & Yeadon,315,7
+E01011579,"Batter Lane, Canadas, Markhams",Guiseley & Rawdon,366,7
+E01011580,"Over Lane, Larkfields, Crow Trees Park",Guiseley & Rawdon,451,10
+E01011581,"St David's Rd, Weston Ridge, Newall Ave",Otley & Yeadon,373,8
+E01011582,Weston Estate,Otley & Yeadon,151,2
+E01011583,"The Wartons, Prince Henry Road, Newall Carr Road",Otley & Yeadon,394,8
+E01011584,"Wrenbeck Drive, Athelstan Lane,",Otley & Yeadon,405,8
+E01011585,Westdales / Standales,Calverley & Farsley,176,3
+E01011586,"Chatsworths, Dalesides",Calverley & Farsley,234,5
+E01011587,Richardshaw Road / Thorpe Road / Somerset Road,Pudsey,263,5
+E01011588,Foxholes / Parkwoods,Calverley & Farsley,354,7
+E01011589,Carr Road / Victoria Park / Town Gate,Calverley & Farsley,367,8
+E01011590,Crowther Avenue / Carr Hills,Calverley & Farsley,375,8
+E01011591,Rodley centre,Calverley & Farsley,335,7
+E01011592,Priesthorpe Road / Wadlands / Town Street,Calverley & Farsley,338,7
+E01011593,Wesley St / Springbank Ave / Kirklees,Calverley & Farsley,473,10
+E01011594,"Richmond Road, Fairfields, Westway",Calverley & Farsley,159,2
+E01011595,Rockwoods / Meadow Parks / The Fairway,Calverley & Farsley,376,8
+E01011596,Farsley Beck Bottom / Parkside Road / West Royd Park,Calverley & Farsley,399,8
+E01011597,"Galloway Lane, Moorland Rd, Ederoyd Cres",Calverley & Farsley,191,3
+E01011598,Mertons / Old Road / Prospect Street / Northcote Street,Calverley & Farsley,293,6
+E01011599,Ederoyd Ave / Hillfoot / Dawsons Corner,Calverley & Farsley,330,7
+E01011600,Valley Road / Chaucer Ave / Robin Lane,Pudsey,310,6
+E01011601,Acres Halls / Walmer Grove,Pudsey,180,3
+E01011602,Pudsey Queen's Park,Pudsey,228,5
+E01011603,Fulneck,Pudsey,358,7
+E01011604,Radcliffe Lane / New Street / Earlswood Chase,Pudsey,336,7
+E01011605,Windmill Hill,Pudsey,393,8
+E01011606,Tyersals,Pudsey,173,3
+E01011607,Lumby Lane / Littlemoors,Pudsey,276,6
+E01011608,Swinnow Road / Park Springs / Wellstones,Pudsey,163,3
+E01011609,Swinnows / Rycroft Ave,Pudsey,157,2
+E01011610,Pudsey Priestleys,Pudsey,262,5
+E01011611,"Harley Road, Swinnow Lane, Wellstone Drive",Pudsey,101,1
+E01011612,Pudsey Centre,Pudsey,188,3
+E01011613,"Owlcotes Road, Waterloo Road",Pudsey,211,4
+E01011614,Pudsey Crimbles,Pudsey,317,7
+E01011615,"Dawlishes, Skeltons",Burmantofts & Richmond Hill,138,2
+E01011616,"Carden Ave, Oak Road, Portage Cres",Temple Newsam,51,1
+E01011617,Rookwoods,Burmantofts & Richmond Hill,92,1
+E01011618,"Dawlish Ave, Vinerys, Ecclesburns",Burmantofts & Richmond Hill,74,1
+E01011620,"Halton Moor, Ullswater Cres, Rathmell Road, Broadway",Temple Newsam,93,1
+E01011621,"Ings Road, Nevilles, Osmondthorpe Lane",Burmantofts & Richmond Hill,88,1
+E01011622,"Neville Road, Wykebecks",Temple Newsam,19,1
+E01011623,"East Park Drive, Glensdales, Raincliffes",Burmantofts & Richmond Hill,11,1
+E01011624,"Halton Moor, Kendal Drive, Cartmell Drive",Temple Newsam,21,1
+E01011625,"St Hildas, Copperfields, Gartons",Burmantofts & Richmond Hill,6,1
+E01011626,"Cross Green Lane, Easy Road, Dial St, Dent St",Burmantofts & Richmond Hill,31,1
+E01011627,"Sandybanks, Springhead Road, John O' Gaints",Rothwell,186,3
+E01011628,"Styebank Lane, Sandy Acres, Thorne Grove",Rothwell,390,8
+E01011629,"Abraham Lane, Churchfield Road, Queensway",Rothwell,222,4
+E01011630,Rothwell Haighsides,Rothwell,343,7
+E01011632,Wood Lane estate,Rothwell,133,2
+E01011633,"Marsh Street, Carlton Lane, Stone Brig Lane",Rothwell,301,6
+E01011634,Carlton,Ardsley & Robin Hood,223,4
+E01011635,"Oulton Lane, Church Street Drive, All Saints Dr",Rothwell,331,7
+E01011636,"Royds Lane, Swithens St",Rothwell,281,6
+E01011637,Woodlesford,Rothwell,352,7
+E01011638,"Oulton Lane, Church Street Drive, All Saints Dr",Rothwell,371,8
+E01011639,"Home Lea, Spibey Lane, Temple Ave",Rothwell,139,2
+E01011641,"Gledhow Woods, Jackson Ave, Lidgett Walk",Roundhay,396,8
+E01011642,"Glehow Lane, Gledhow, Wood Rd, Well House Rd",Roundhay,345,7
+E01011643,"Lady Wood, North Lane, Oakwood Lane",Roundhay,374,8
+E01011644,"Asket Hill, Elmete Ave, Elmete Drive",Roundhay,219,4
+E01011645,"Fitzroy Drive, Oakwell",Roundhay,355,7
+E01011646,Montagu Place,Roundhay,279,6
+E01011647,"Gipton Wood, Upland Rd, Easterly Cres, Upland Dr",Roundhay,190,3
+E01011648,"Montagu Cres, Gipton Wood Rd, Upland Cres",Roundhay,241,5
+E01011649,Shadwell,Harewood,481,10
+E01011650,"Roundhay Park Lane, West Parks, Roundhay Park",Roundhay,334,7
+E01011651,"Birchwood Hill, West Park Dr, Roman Ave",Alwoodley,283,6
+E01011652,"Kingswood, Norton Rd, East Moors",Roundhay,360,7
+E01011653,"Romans, West park Rd, Shaftesbury Ave",Roundhay,406,8
+E01011654,"Devonshire Cres, North Park Grove, The Drive",Roundhay,455,10
+E01011655,"Park Cres, The Avenue, Old Park Road",Roundhay,409,9
+E01011656,"Boggart Hill Drive, Barncroft Road, Ramshead Drive, Monkswood Hill",Killingbeck & Seacroft,83,1
+E01011657,"Ramsheads, Limewoods, Monkswoods",Killingbeck & Seacroft,64,1
+E01011658,Boggart Hill,Killingbeck & Seacroft,7,1
+E01011659,"Kentmere Ave, North Parkway, Easdale Cres",Killingbeck & Seacroft,41,1
+E01011660,"Kentmere Approach, Rosgill Drive, Brooklands Lane",Killingbeck & Seacroft,42,1
+E01011661,"Eastdeans, Seacroft Cres, Hansbys",Killingbeck & Seacroft,20,1
+E01011662,"Foundry Mill Terr, Brooklands",Killingbeck & Seacroft,2,1
+E01011663,"Tarnside Drive, Foundry Mill Street, South Parkway",Killingbeck & Seacroft,30,1
+E01011664,"Redmires, South Parkway, Kentmere Ave",Killingbeck & Seacroft,54,1
+E01011665,"Inglewood Dr, Crossgates Ave, Stocks'",Killingbeck & Seacroft,73,1
+E01011666,"Hawkhills, Bryan Cres, Sandway",Killingbeck & Seacroft,235,5
+E01011667,"Foundry Mill Drive, Hawkshead Cres, Alston Lane",Killingbeck & Seacroft,8,1
+E01011668,"Cliff Mount, Delph Lane, Pennington St",Headingley & Hyde Park,225,4
+E01011669,Sugarwell Hill,Headingley & Hyde Park,217,4
+E01011670,"Woodhouse St. Melville Rd, Elthams",Little London & Woodhouse,187,3
+E01011671,"Cambridge Road, Servias, Meanwood Rd, Leicester Place",Little London & Woodhouse,78,1
+E01011673,"Bayswaters, Gledhows",Gipton & Harehills,47,1
+E01011677,"Shakespeares, Bexleys, Bayswaters",Gipton & Harehills,23,1
+E01011678,"Burlington St, Park Lane, Hyde Park Terr",Little London & Woodhouse,246,5
+E01011681,"Westfield Road, Woodsley Road, Rosebank Road",Little London & Woodhouse,127,2
+E01011684,"Parkstone Grove, Spen Lane, Spennithornes",Weetwood,340,7
+E01011685,"Weetwood, Kepstorn Road, Ancaster Road",Weetwood,445,9
+E01011686,"Fillingfir Drive, Latchmeres",Kirkstall,90,1
+E01011687,"West Park, Moor Grange Drive, Wynford Terrace",Weetwood,356,7
+E01011688,"Stainbeck Road, Stonegate Lane, Church Ave",Moortown,311,7
+E01011689,"Church Lane, Parksides, Sunset Rd",Moortown,296,6
+E01011690,"Drummonds, Hollin Hill Lane, Cottage Road",Weetwood,370,8
+E01011691,"Church Ave, Stainbeck Ave, Bentley Lane",Moortown,166,3
+E01011692,"Hollin Drive, Moor Parks, Claremont Road",Weetwood,359,7
+E01011693,"Grove Lane, Highburys",Weetwood,291,6
+E01011694,"Becketts Parks, St Chads",Weetwood,398,8
+E01011695,Ivesons,Weetwood,109,1
+E01011696,"Rigton Hill, Collingham (Leeds Road)",Harewood,463,10
+E01011697,"Thorp Arch, Walton",Wetherby,254,5
+E01011698,Deighton Gates,Wetherby,425,9
+E01011699,"Ainsty Rd, Nidd App, Deerstone Ridge",Wetherby,469,10
+E01011700,"Deighton Rd, Sandbeck Lane, Audby Lane",Wetherby,344,7
+E01011701,"Wetherby Glebe Fields, Barleyfields Road",Wetherby,461,10
+E01011702,"Linton Ings, Linton Rd, Spofforth Hill",Wetherby,480,10
+E01011703,"Chatsworth Drive, Ullswaters, Buttermere Ave",Wetherby,464,10
+E01011704,"Wetherby Race Course, North St, Horsefair",Wetherby,300,6
+E01011705,Hallfield,Wetherby,215,4
+E01011706,Collingham (Linton Rd),Harewood,482,10
+E01011707,Boston Spa (west),Wetherby,365,7
+E01011708,East Keswick,Harewood,414,9
+E01011709,Boston Spa (east),Wetherby,465,10
+E01011710,Clifford,Wetherby,404,8
+E01011711,"High Street, Grove Road, Bridge Road",Wetherby,436,9
+E01011712,Bramham,Wetherby,332,7
+E01011713,"East Rington, Bardsey",Harewood,430,9
+E01011714,RedHall Approach / Naburn Approach / Birchfields,Cross Gates & Whinmoor,346,7
+E01011715,"Arthursdales, Morwick Grove",Harewood,418,9
+E01011716,Red Halls / Whinmoors,Cross Gates & Whinmoor,378,8
+E01011717,White Laiths,Cross Gates & Whinmoor,196,3
+E01011718,"Naburns, Garth Willow Ave",Cross Gates & Whinmoor,164,3
+E01011719,Scholes,Harewood,348,7
+E01011720,"Coal Rd, Hebdon Approach, Mill Green Gardens",Cross Gates & Whinmoor,86,1
+E01011721,Braytons / Farndales,Cross Gates & Whinmoor,66,1
+E01011722,"Stanks Gardens, Stanks Drive, Stanks Lane South",Cross Gates & Whinmoor,168,3
+E01011723,"Langbars, Braytons, Eastwoods",Cross Gates & Whinmoor,53,1
+E01011724,"Swarcliffes, Mill Greens, Swardales",Cross Gates & Whinmoor,146,2
+E01011725,"Heights Way, Heights Drive, Farrows",Farnley & Wortley,36,1
+E01011726,"Gamble Lane, Tong Drive, Stonecliffes, Hall Lane",Farnley & Wortley,118,2
+E01011727,Tong Road / Water Lane / Wood Grove / Wood Lane,Farnley & Wortley,220,4
+E01011728,Low Moor Side / Upper Moor Side,Farnley & Wortley,260,5
+E01011729,"Thornhill Road, Tong Road, Whingate Road, Conference Road",Farnley & Wortley,77,1
+E01011730,"Silver Royds, Swallows, Bawns",Farnley & Wortley,71,1
+E01011731,Cliif Park Cres / Blue Hill Lane / Leysholme Cres,Farnley & Wortley,253,5
+E01011732,Upper Wortley,Farnley & Wortley,224,4
+E01011733,"Lynwoods, Kenilworth Rd",Farnley & Wortley,243,5
+E01011734,Kirkdales  ,Farnley & Wortley,292,6
+E01011735,"Butterbowl Drive, Whincovers",Farnley & Wortley,33,1
+E01011736,Kelletts / Lower Wortley Road / Greenville Gardens,Farnley & Wortley,250,5
+E01011737,"Branch Road, Cobdens, Granny Lane",Farnley & Wortley,128,2
+E01011738,New Farnley,Farnley & Wortley,288,6
+E01011739,Gamble Hill,Farnley & Wortley,55,1
+E01032487,"North Ln, Holmsfield Ln, Langdale Rd",Rothwell,129,2
+E01032488,"Holmsley Ln, Pymont Dr, Parkways",Rothwell,397,8
+E01032489,"Albert Rd, Denshaw Dr, Troy Rd",Morley South,210,4
+E01032490,"Magpie Ln, Milbeck Approach",Morley South,383,8
+E01032491,"Ingleborough Dr, Peacock Grn…",Morley South,407,8
+E01032492,"Denshaw Gr, Peel St, Lewisham Park",Morley South,130,2
+E01032493,Abbeydales and Vespers,Kirkstall,285,6
+E01032494,"Cragsides, Hawksworth Wood…",Kirkstall,113,1
+E01032495,"Throstle Terrace, Thorpe Ln…",Middleton Park,295,6
+E01032496,Robin Hood,Ardsley & Robin Hood,382,8
+E01032497,"Manor Farms, Newhall Cres",Middleton Park,95,1
+E01032498,"Town St, Moor Flats Ave…",Middleton Park,183,3
+E01032499,"Armley Granges, Gotts Park, Hill End",Armley,240,5
+E01032500,"Armley Ridge Road, Edinburghs",Armley,85,1
+E01032501,"Tinshill Lane, Carr Bridge Drive",Weetwood,395,8
+E01032502,"Haigh Woods, Silk Mills…",Weetwood,140,2
+E01032503,"Airport, Cartlon, West Bramhope",Adel & Wharfedale,402,8
+E01032504,"East Bramhope, King Lane…",Adel & Wharfedale,476,10
+E01032606,"Green Hill Dr, Billingbank Dr…",Armley,158,2
+E01032607,"Aberdeens, Moor End, Wortley Rd",Armley,120,2
+E01032608,"Hallidays, Park Street, St Ives",Armley,131,2
+E01032876,"Fox Hills, Weetwood Lane",Weetwood,416,9
+E01032945,"Ash Rd, Canterbury Dr, Turnways",Headingley & Hyde Park,321,7
+E01032946,"Headingley Hill, Woodhouse Cliff",Headingley & Hyde Park,313,7
+E01033002,"Little London, Lovell Parks",Little London & Woodhouse,203,3
+E01033003,"Lovell Park View, Sheepscars…",Little London & Woodhouse,115,2
+E01033005,"Blenheims, St Marks Road…",Little London & Woodhouse,192,3
+E01033006,"Clarendon Rd, Kelsos, Moorland Rd…",Little London & Woodhouse,251,5
+E01033008,"LGI, Courts, Park Square, York Place",Little London & Woodhouse,237,5
+E01033010,"City Centre, Headrow",Little London & Woodhouse,239,5
+E01033011,"Quarry Hill, Kirkgate, The Calls",Hunslet & Riverside,194,3
+E01033013,Holbeck (west) Springwell Rd…,Beeston & Holbeck,141,2
+E01033015,"Granary Wrf, Whitehall Waterfront…",Hunslet & Riverside,385,8
+E01033016,"City Station, Bridgewater Place…",Hunslet & Riverside,320,7
+E01033018,"Black Bull St, Sayner Ln, Hunslet Rd",Hunslet & Riverside,267,5
+E01033019,"Armouries, Clarence Rd, Liberty Dock",Hunslet & Riverside,309,6
+E01033021,Upper Accommodation Rd…,Burmantofts & Richmond Hill,103,1
+E01033031,"Mabgate, Dolly Lane",Little London & Woodhouse,119,2
+E01033032,"Holbeck (east), Sweet Street",Beeston & Holbeck,266,5
+E01033033,"Saxton Gardens, The Gateways",Hunslet & Riverside,271,6
+E01033034,"East St Mills, Robert's Wharfe…",Hunslet & Riverside,274,6
+E01033035,Lincoln Green,Burmantofts & Richmond Hill,14,1
+,,,,
